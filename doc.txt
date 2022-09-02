@@ -1,0 +1,25 @@
+LES TYPE OFFRANDE
+1 = offrande ordinaire
+2 = offrande social
+
+LES MOUVEMENTS
+
+1 = entrée
+2 = sortie 
+
+LA MONNAIRE
+
+1 = dollars
+2 = franc congolaire
+
+LES ACCES
+
+1 = logistique
+2 = offrande
+3 = video
+4 = email 
+5 = tout les acces
+
+Pour crée un compte administrateur initial
+
+/administrateur-intiale-du-logiciel-hfdtrtkhgshj-ghjskghfsjkshysd
